@@ -1,7 +1,7 @@
 ## 
-<img src='https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif' width="900" height="100" />
+<img src='https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif' width="900" height="200" />
 
-#  <> Sebastian Schneider GitHub 🎯 </>
+#   Sebastian Schneider Full Stack Dev GitHub  
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 
