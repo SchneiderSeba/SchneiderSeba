@@ -1,5 +1,5 @@
 ## 
-<img src='https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif' width="900" />
+<img src='https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif' width="900" height="100" />
 
 #  <> Sebastian Schneider GitHub 🎯 </>
 
