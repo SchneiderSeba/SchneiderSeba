@@ -1,7 +1,7 @@
 ## 
 <img src='./Img.png' />
 
-#   Sebastian Schneider Full Stack Dev GitHub  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U4bzNhYzNibHRxbXR2YnY2eW5iaHlyajJvY3dxcnlydHF6cDZxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif' width='50' height='50' />
+#   Sebastian Schneider Full Stack Dev GitHub
 
 ## Data Base
 
