@@ -1,7 +1,7 @@
 ## 
 <img src='./Img.png' />
 
-#   Sebastian Schneider Full Stack Dev GitHub
+#   Sebastian Schneider Full Stack Developer
 
 ## Data Base
 
